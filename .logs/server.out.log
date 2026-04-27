@@ -1,0 +1,5 @@
+
+> shoe-and-slipper-store@1.0.0 dev:server
+> node --experimental-sqlite server/src/index.js
+
+API server running on http://127.0.0.1:4000
